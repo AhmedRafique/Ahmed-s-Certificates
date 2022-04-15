@@ -1,0 +1,32 @@
+IT and Networks:
+  Created playlist/s:
+    1. CCNA R&S
+    https://www.youtube.com/playlist?list=PLOlWnOiqdUTAkmG1jctknMnnB5uxPOFps
+    
+  Audited playlists:
+    1. CCNP ENCOR (350-401) By Eng-Abeer Hosni | Arabic
+    https://www.youtube.com/playlist?list=PLped9VG7STA_ocn1WOs3eqt-TtxDbh7CP
+    2. Cisco CCNP Enterprise (عربي) - ENCOR 350-401 - Arabic Complete Course
+    https://www.youtube.com/playlist?list=PLAqaqJU4wzYWm_zZeeFblb-vnbnB5-ZGu
+    3. Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)
+    https://www.youtube.com/watch?v=3Kq1MIfTWCE&list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu&index=1&t=8s
+    4. Start In SDN
+    https://www.youtube.com/playlist?list=PL5ENO5xzfLmKURDfd0fLIKsQjmm77ARuG
+    5. Red Hat Enterprise Linux 7 (Admin1) RH124 By Eng-Abeer Hosni | Arabic
+    https://www.youtube.com/playlist?list=PLCIJjtzQPZJ9YCutDheynFtxIUziNKcVk
+    6. Red Hat Enterprise Linux 7 (Admin 2) RH134 By Eng-Abeer Hosni | Arabic
+    https://www.youtube.com/playlist?list=PLCIJjtzQPZJ-hrrJo_k3IGCbV2CM16imu
+    7. Red Hat Enterprise Linux 7 (Admin 3) RH254 By Eng-Abeer Hosni | Arabic (In Progress)
+    https://www.youtube.com/playlist?list=PLCIJjtzQPZJ-_imc-4LszS9u5zzSsjQ1_
+    
+SQL:
+    https://www.youtube.com/playlist?list=PL93xoMrxRJIuicqcd1UpFUYMfWKGp7JmI
+
+Machine Learning/Deep Learning:
+    1. Stanford CS229: Machine Learning | Autumn 2018
+    https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+    2. CS230: Deep Learning | Autumn 2018
+    https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+    3. undergraduate machine learning at UBC 2012
+    https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf
+    
